@@ -36,8 +36,8 @@ def searching(text):
     print("Searching for Kural...")
 
     # Reading Kurals from File
-    kural_csv_path = os.path.join("D:\spider chart\Thirukkural\Thirukural\Thirukural.csv")
-    explanation_csv_path = os.path.join("D:\spider chart\Thirukkural\Thirukural\Thirukural_With_Explanation.csv")
+    kural_csv_path = os.path.join("Thirukkural file Path")
+    explanation_csv_path = os.path.join("Explanation file Path")
     
     try:
         kural_df = pd.read_csv(kural_csv_path)
@@ -102,17 +102,17 @@ root = Tk()
 root.title("Thirukkural App")
 root.geometry("450x400")
 
-image_path = os.path.join("D:\spider chart\Thirukkural\Thirukural\mic.jpg")
+image_path = os.path.join("Image mic Path")
 image = Image.open(image_path)
 image = image.resize((50, 50))
 photo = ImageTk.PhotoImage(image)
 
-image2_path = os.path.join("D:\spider chart\Thirukkural\Thirukural\Thiruvalluvar.jpg")
+image2_path = os.path.join("Thiruvalluvar Image Path")
 image2 = Image.open(image2_path)
 image2 = image2.resize((150, 200))
 photo2 = ImageTk.PhotoImage(image2)
 
-image3_path = os.path.join("D:\spider chart\Thirukkural\Thirukural\TiruBG.jpg")
+image3_path = os.path.join("Thirukkural BG Path")
 image3 = ImageTk.PhotoImage(Image.open(image3_path))
 
 label = Label(root, image=image3)
