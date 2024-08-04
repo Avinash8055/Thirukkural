@@ -7,7 +7,7 @@ from PIL import Image, ImageTk
 import os
 
 # Set ElevenLabs API key
-elevenlabs.set_api_key("sk_fd4cb4f1dcc96d4c41bea9c7f48ac26c5a911cff5b501b22")
+elevenlabs.set_api_key("API KEY")
 sys.stdout.reconfigure(encoding="utf-8")
 
 # Function to convert speech to text
