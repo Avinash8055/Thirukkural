@@ -7,6 +7,8 @@ speechrecognition
 tkinter 
 pillow
 
+
+#use python 3.10 and above 
 # Additional Requirement:
 # For audio processing, you may need to install FFmpeg on Windows.
 # Download and install it from: https://www.gyan.dev/ffmpeg/builds/
