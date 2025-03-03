@@ -1,8 +1,8 @@
-# Thirukkural
-# Additional Requirement:
-# For audio processing, you may need to install FFmpeg on Windows.
-# Download and install it from: https://www.gyan.dev/ffmpeg/builds/
-# Install 'ffmpeg.exe' and ensure it is added to the system PATH.
+ Thirukkural
+Additional Requirement:
+For audio processing, you may need to install FFmpeg on Windows.
+Download and install it from: https://www.gyan.dev/ffmpeg/builds/
+Install 'ffmpeg.exe' and ensure it is added to the system PATH.
 
 # User Configuration:
 # Ensure you set up the required APIs in an environment file or directly in your script.
