@@ -1,34 +1,26 @@
 # 📜 Thirukkural Project  
 
-## 📂 Folder Setup  
-Before proceeding, clone the repository and navigate to the project directory:  
-
-### 🔹 **Clone the Repository**  
-```bash
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
-```
 
 ## 🛠️ Installation  
 
 ### 🔹 **Step 1: Clone the Repository**  
 ```bash
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
+git clone https://github.com/Avinash8055/Thirukkural.git
+cd Thirukkural
 ```
 
-### 🔹 **Step 2: Install Dependencies**  
-Before running the project, install the required Python packages:  
-```bash
-pip install -r requirements.txt
-```
-
-### 🔹 **Step 3: Additional Requirements**  
+### 🔹 **Step 2: Additional Requirements**  
 
 #### 🎵 **For Audio Processing**  
 If you need **FFmpeg** for audio processing, install it on Windows:  
 1. Download **FFmpeg** from: [FFmpeg Builds](https://www.gyan.dev/ffmpeg/builds/)  
-2. Install `ffmpeg.exe` and ensure it is **added to the system PATH**.  
+2. Install `ffmpeg.exe` and ensure it is **added to the system PATH**.
+
+### 🔹 **Step 3: Install Dependencies**  
+Before running the project, install the required Python packages:  
+```bash
+pip install -r requirements.txt
+```  
 
 #### 🔧 **User Configuration**  
 
