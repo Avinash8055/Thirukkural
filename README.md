@@ -1,6 +1,11 @@
 # 📜 Thirukkural Project  
 
 
+## 🎬 **Model Demo**
+
+https://github.com/user-attachments/assets/8f70e70c-4dc8-4408-8932-da0f231f89ef
+
+
 ## 🛠️ Installation  
 
 ### 🔹 **Step 1: Clone the Repository**  
